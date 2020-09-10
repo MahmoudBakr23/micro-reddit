@@ -1,24 +1,45 @@
-# README
+# Ruby On Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**A micro-reddit web application**
+**Built to connect three different tables together with the one-to-many and many-to-many relationships between the User, Post and Comment models, runs through rails console**
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+* Ruby 2.7.0
+* Rails 5.2.4.4
 
-* System dependencies
+## Getting Started
+* Clone the repo using this link https://github.com/MahmoudBakr23/micro-reddit.git
+* cd micro-reddit
+* Open the terminal and insert the command "rails c" to open the rails console (irb)
 
-* Configuration
+## Authors
 
-* Database creation
+👤 **Mahmoud**
 
-* Database initialization
+- Github: [@MahmoudBakr23](https://github.com/MahmoudBakr23)
 
-* How to run the test suite
+- Linkedin: [Mahmoud Bakr](https://www.linkedin.com/in/m-bakr/)
 
-* Services (job queues, cache servers, search engines, etc.)
+- Email: [contact on Gmail](mbakr6821@gmail.com)
 
-* Deployment instructions
+👤 **Vitalie**
 
-* ...
+- Github: [@vmwhoami](https://github.com/vmwhoami)
+
+- Linkedin: [Vitalie Melnic](https://www.linkedin.com/in/vitaliemelnic/)
+
+- Email: [contact on Gmail](vmwhoami@gmail.com)
+
+## �� Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- The Odin Project
